@@ -5,4 +5,5 @@ With all integer numbers from 1-n, any combination of numbers of 1-Sn can be for
  
 ## In Order Traversal
 In order traversal of a binary search tree would result in an ordered array. Hence when a BST is traversed in order, the resulting array would be sorted. This can be used to find X largest or least element.
-
+ ## Min Jumps to Point
+Uses maxReach, decrement steps and update steps=maxReach-index when steps==0.
